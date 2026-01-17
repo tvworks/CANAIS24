@@ -5,7 +5,6 @@
 <channel>
 <name>[B][COLOR lime]●[/COLOR] [COLOR white]CANAIS24[/COLOR][/B]</name>
 <thumbnail>https://raw.githubusercontent.com/tvworks/CANAIS24/refs/heads/main/CANAIS24.m3u</thumbnail>
-<externallink>https://raw.githubusercontent.com/tvworks/addon/refs/heads/main/menu_tv.txt</externallink>
 <fanart>LINK DO FANART DO ADDON QUE FICA NO FUNDO</fanart>
 </channel>
 
